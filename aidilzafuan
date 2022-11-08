@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!DOCTYPE html>
+<html> 
+	<head>
+		<title> tugas html </title>
+	</head>
+	<body>
+	<table>
+		<tr><img src=""> <td align="left"> RUMAH SAKIT &</td>
+		    <td align="right"> RM.01 </td></tr>
+		<tr><big><td align="left"> ROYAL PROGRESS</td> 
+			<td align="right"><b> FORMULIR PENDAFTARAN RAWAT INAP/ ONE DAY CARE</b></td></big></tr>
+		<tr><i><sub><td align="left"> Melayani dengan Cinta Kasih;</td></i></sub>
+			<i><td align="right"> semua bagian harus diisi</td></i></tr>
+	</table>
+
+	<fieldset>
+			<p align="right"> <font size="2"> No.Rekam Medis </font></p>
+		   	<tr>
+		   	 <font size="2"> No Register : </font>_______
+		   	</tr>
+		   		<td>
+		   		<input type="text" size="2">
+				<input type="text" size="2">
+				<input type="text" size="2"><br>
+
+			<tr>
+			<p><b>A.IDENTITAS PASIEN(bagian ini harus lengkap dan mohon diisi pasien) </b></tr><br>
+			<tr>
+			<td> Nama depan (sesuai KTP): _______________________________________
+		    <td><input type="checkbox" align="right" value=""> Laki-laki
+			    <input type="checkbox" align="right" value=""> Perempuan </td><br>
+			<tr><td> Nama ibu kandung (sesuai KTP): _____________________________________________</td></tr><br>
+			<tr><td> Tempat & Tanggal lahir : ____________________ Agama : __________________________</td></tr></br>
+			<tr><td> Alamat rumah (sesuai KTP) : _______ No : _______ Rt : ______Rw : _______________________</td></tr></br>
+			<tr><td>	
+	   			 Kelurahan : _______________&; Kecamatan : _______________</td><br>
+	   			 Kota/Wilayah : ______________ Telepon : _______________</td><br>
+	   			 Email : ________________;Hp : _________________</td><br>
+
+	    		</td>
+	    		<br>
+		</tr>
+			<tr><td> Pendidikan terakhir : ________________________________________________</td></tr></br>
+			<tr><td> Pekerjaan / Bagian : _________________________________________________</td></tr><br>
+			<tr><td> Alamat kantor : __________________________________________________</td></tr><br>
+			<tr><tr> Warga Negara : __________________________________________________</tr></tr><br>
+			<tr><td> Pasien pernah dirawat di RS Royal Progress tanggal: ___________ bulan: __________ tahun: ________________ </td></tr><br>
+
+	    <b><p><b>B. IDENTITAS PENANGGUNG JAWAB</b>(bagian ini mohon diisi penanggung jawab</p></b>
+
+	    	<tr>
+	    		<td>Nama depan (sesuai ktp) : ________________________________________________</td>
+	    	</tr>
+	    	<br>
+	    	<tr>
+	    		<td>Nama ibu kandung (sesuai ktp):______________________________________________</td>
+	    	</tr>
+	    	<br>
+	    	<tr>
+	    		<td>Alamat rumah (sesuai ktp) :_______________________________________________</td>
+	    	</tr>
+	    	<br>
+	    	<tr><td>	
+	   			 Kelurahan : _______________ Kecamatan : _______________</td><br>
+	   			 Kota/Wilayah : ______________ Telepon : _______________</td><br>
+	   			; Email : _______________;Hp : _________________</td><br>
+
+	    		</td>
+	    	</tr>
+
+	    	<tr>
+	    		<td>Alamat konter :___________________________________________________</td>
+	    	</tr>
+	    	<br>
+
+	    	<tr>
+	    		<td>Pekerjaan Bagian : _________________________________________________</td>
+	    	</tr>
+	    	<tr>
+	    		<td>Hubungan dengan pasien sebagai : _____________________________________________</td>
+	    	</tr>
+	    	<br>
+	    	<p><b>C. KELAS PERAWATAN YANG DIMINTA  (bagian ini diisi oleh admission)</p></b>
+	    	<tr><td>
+	    		Kelas Perawat :__________Kamar: __________ Lantai : &n_____________<br>
+	    	</tr></td>
+	   		 <tr><td>
+	   			Tanggal Masuk : __________  Jam: __________Dokter : _____________<br>
+	   		</tr>
+	   		<br>
+	   		<tr>
+	   			<td>DJDJ : ____________________________________________________</td>
+	   		</tr>
+	   		<br>
+	   		<tr>
+	   			<td>Asal pasien (pilih salah satu)</td>
+	   		</tr>		
+	   		<br>
+	   		<td><input type="checkbox" align="right" value=""> UGD
+			    <input type="checkbox" align="right" value=""> IRJ 
+			    Jaminan Kesehatan : Rujukan :<br> 
+	 			
+	 			<input type="checkbox" > GAKIN/SKTM <input type="checkbox" > Dr. Royal Progress : ____________________________ <br> 
+	 			<input type="checkbox" > AKSES<input type="checkbox" > Dr. Kerjasama/rujukan : ___________________________  <br>
+	 			<input type="checkbox" > JAMSOSTEK <input type="checkbox" > Rumah Sakit : _______________________________<br>
+	 			&n<input type="checkbox" > Lainnya   <input type="checkbox" > Bidan : _______________________________<br> <input type="checkbox" > Perusahaan rekanan : ____________________________ <br>
+				 &<input type="checkbox" > Yayasan : _______________________________ <br>
+				 <input type="checkbox" > Progress Group :______________________________<br>
+				 Cara pembayaran : <input type="checkbox" > Pribadi 
+				 															<input type="checkbox" > Jaminan _________________________________<br>
+				 Kode perusahaan/asuransi<br>
+				 Surat Jaminan :<input type="Checkbox"> Ya
+				 															<input type="Checkbox"> Tidak <br>
+				 Surat rujukan :<input type="Checkbox"> Ya
+				 															<input type="Checkbox"> Tidak <br>
+			    </td>
+			    <p><b>D. SURAT PERNYATAAN PERSETUJUAN PERATURAN RUMAH SAKIT DAN HAK PASIEN </b></p>
+			    <tr>
+			    <b> Jakarta ___________</b><br>
+			    Harus ACC No. 1 & 2 <sub> Tanda tangan penanggung jawab pasien/pasien </sub><br>
+			    acc saya sudah membaca,mengerti,dan<br>
+			    <input type="text" size="3"> menyetujui "Peraturan Rawat Inap / One Day" <br>
+			   
+			   (................................) <br>
+			    p;Nama lengkap <br>
+			    acc saya sudah membaca,mengerti,dan<br>
+			    <input type="text" size="3"> menyetujui "Peraturan Rawat Inap / One Day <br>
+			   <b> Tanda tangan petugas admission</b><br> 
+			  <br>
+			    Distribusi : nbsp;Putih - Rekam Medis (..............................)<br>
+			    Merah - Kasir Nama lengkap <br>
+			    Biru - Admission <br>
+				</td>
+			    <br>
+			</fieldset>
+		</table>
+	</body>
+</html>
